@@ -1,2 +1,0 @@
-# text-to-handwriting-master
- 
